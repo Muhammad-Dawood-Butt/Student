@@ -1,2 +1,4 @@
 # Student
-My first repository
+My first GitHub repository
+<br>
+All code and chnging will appear here
